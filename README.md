@@ -60,6 +60,8 @@ npm start
 
 Este projeto é um ponto de partida simples. Você pode personalizá-lo da maneira que desejar, adicionando mais funcionalidades ou estilizando-o de acordo com suas preferências.
 
+<br>
+
 ## Contribuição
 
 Contribuições são bem-vindas! Se você deseja contribuir para este projeto, siga estas etapas:
